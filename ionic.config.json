@@ -1,0 +1,7 @@
+{
+  "name": "ExamenLuisCastellon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
